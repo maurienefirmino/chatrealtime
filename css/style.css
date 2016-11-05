@@ -30,3 +30,6 @@
  #messages li:nth-child(odd) { 
  	: #eee; 
  }
+ #messages{
+ 	font-size: 20px;
+ }	
